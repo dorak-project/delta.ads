@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "title": "Delta.Ads | Software Solutions and Digital Experiences",
+    "description": "We build websites, ecommerce stores, custom systems, and polished digital solutions that help businesses grow."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Work",
+    "why": "Why Us",
+    "tech": "Tech",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "start": "Start Project",
+    "language": "العربية"
+  },
+  "hero": {
+    "badge": "Delta.Ads idea makers",
+    "titleTop": "We Build",
+    "titleGradient": "Digital Experiences",
+    "description": "We craft websites, ecommerce platforms, custom systems, and professional digital solutions that help your business grow with confidence.",
+    "primary": "Start your project",
+    "secondary": "View our work",
+    "whatsapp": "Contact us on WhatsApp"
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Integrated software solutions for business growth",
+    "all": "View all services",
+    "items": [
+      {
+        "title": "Website Development",
+        "description": "Fast, professional, responsive websites for every device.",
+        "icon": "code",
+        "tone": "blue"
+      },
+      {
+        "title": "Ecommerce Stores",
+        "description": "Complete stores with payment gateways and inventory tools.",
+        "icon": "cart",
+        "tone": "orange"
+      },
+      {
+        "title": "Web Applications",
+        "description": "Interactive web apps with refined user experiences.",
+        "icon": "app",
+        "tone": "violet"
+      },
+      {
+        "title": "Custom Systems",
+        "description": "Management systems tailored to your workflow.",
+        "icon": "settings",
+        "tone": "orange"
+      },
+      {
+        "title": "SEO Optimization",
+        "description": "Search improvements that increase visibility and reach.",
+        "icon": "rocket",
+        "tone": "cyan"
+      },
+      {
+        "title": "Digital Marketing",
+        "description": "Paid ads and focused campaigns that bring real demand.",
+        "icon": "chart",
+        "tone": "rose"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Delta touch",
+    "title": "We turn your idea into a successful digital product",
+    "items": [
+      {
+        "title": "Analyze",
+        "description": "We understand requirements, users, market, and competitors.",
+        "icon": "scan"
+      },
+      {
+        "title": "Design UI/UX",
+        "description": "We create modern interfaces that feel simple and useful.",
+        "icon": "pen"
+      },
+      {
+        "title": "Build",
+        "description": "We use modern technologies to ship fast, secure products.",
+        "icon": "code"
+      },
+      {
+        "title": "Test Quality",
+        "description": "We test performance, usability, and reliability carefully.",
+        "icon": "shield"
+      },
+      {
+        "title": "Launch & Support",
+        "description": "We deploy your project and keep supporting your team.",
+        "icon": "rocket"
+      }
+    ]
+  },
+  "portfolio": {
+    "eyebrow": "Our Work",
+    "title": "Selected projects",
+    "all": "View all work",
+    "filters": ["All", "Websites", "Systems", "Ecommerce"],
+    "items": [
+      {
+        "title": "Fashion Ecommerce Store",
+        "category": "Ecommerce",
+        "slug": "fashion-store",
+        "tone": "orange"
+      },
+      {
+        "title": "Clinics Management System",
+        "category": "System",
+        "slug": "clinics-dashboard",
+        "tone": "blue"
+      },
+      {
+        "title": "Construction Company Website",
+        "category": "Website",
+        "slug": "construction-company",
+        "tone": "cyan"
+      },
+      {
+        "title": "Admin Analytics Dashboard",
+        "category": "System",
+        "slug": "analytics-admin",
+        "tone": "violet"
+      },
+      {
+        "title": "Learning Platform",
+        "category": "Website",
+        "slug": "learning-platform",
+        "tone": "rose"
+      },
+      {
+        "title": "Hotel Booking System",
+        "category": "System",
+        "slug": "hotel-booking",
+        "tone": "blue"
+      }
+    ]
+  },
+  "tech": {
+    "title": "Technologies we use"
+  },
+  "stats": [
+    {
+      "value": "50+",
+      "label": "Completed projects",
+      "icon": "folder"
+    },
+    {
+      "value": "100%",
+      "label": "Client satisfaction",
+      "icon": "smile"
+    },
+    {
+      "value": "24/7",
+      "label": "Technical support",
+      "icon": "headset"
+    },
+    {
+      "value": "5+",
+      "label": "Years experience",
+      "icon": "calendar"
+    }
+  ],
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "What clients say about us",
+    "items": [
+      {
+        "quote": "A highly professional team. They delivered my website faster than expected with excellent quality.",
+        "name": "Mohammed Alotaibi",
+        "role": "Ecommerce owner"
+      },
+      {
+        "quote": "Smooth communication and support after delivery. I genuinely recommend working with them.",
+        "name": "Sarah Mohammed",
+        "role": "Company manager"
+      },
+      {
+        "quote": "Strong programming and design quality. Every detail felt polished and intentional.",
+        "name": "Ahmed Khaled",
+        "role": "Entrepreneur"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "What to know before we start",
+    "items": [
+      {
+        "question": "How long does a project take?",
+        "answer": "It depends on scope, but we start with a clear plan and delivery schedule before writing code."
+      },
+      {
+        "question": "Can the content be edited later?",
+        "answer": "Yes. We can connect the site to a dashboard or Supabase for easy service, project, and message management."
+      },
+      {
+        "question": "Is the website mobile friendly?",
+        "answer": "Yes, the interface is designed to work smoothly on mobile, tablet, and desktop screens."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to turn your idea into a successful project?",
+    "description": "Let us help you build a strong and memorable digital presence.",
+    "button": "Contact us now on WhatsApp"
+  },
+  "footer": {
+    "description": "We create remarkable digital experiences that help your company grow and stand out online.",
+    "quickLinks": "Quick links",
+    "services": "Services",
+    "contact": "Contact",
+    "copyright": "© 2026 Delta.Ads. All rights reserved."
+  },
+  "pages": {
+    "about": {
+      "title": "About Us",
+      "description": "Delta.Ads is a team building digital solutions that combine smart design, strong engineering, and business growth."
+    },
+    "services": {
+      "title": "Services",
+      "description": "We cover the digital product journey from idea and analysis to design, development, launch, and support."
+    },
+    "portfolio": {
+      "title": "Work",
+      "description": "A selected collection of websites, systems, and digital experiences crafted with the Delta.Ads spirit."
+    },
+    "blog": {
+      "title": "Blog",
+      "description": "Short articles about software, digital marketing, and user experience."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Tell us about your idea and we will suggest the best path to turn it into a product."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "We protect your data and only use it for communication and service improvement."
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "description": "These terms organize collaboration, delivery, and support after launch."
+    }
+  }
+}
