@@ -14,7 +14,8 @@ const toneClasses = {
   blue: "from-blue-400 to-blue-700 shadow-blue-500/30",
   orange: "from-orange-300 to-orange-600 shadow-orange-500/30",
   cyan: "from-cyan-300 to-cyan-700 shadow-cyan-500/30",
-  violet: "from-violet-400 to-violet-700 shadow-violet-500/30"
+  violet: "from-violet-400 to-violet-700 shadow-violet-500/30",
+  rose: "from-rose-400 to-rose-700 shadow-rose-500/30"
 };
 
 export function ProcessSection({ messages }: ProcessSectionProps) {
