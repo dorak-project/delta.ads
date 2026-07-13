@@ -9,7 +9,7 @@ coverage
 # next.js
 .next/
 out/
-
+git push -u origin main
 # production
 build
 
