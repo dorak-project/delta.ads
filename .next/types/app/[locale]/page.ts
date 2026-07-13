@@ -1,4 +1,4 @@
-// File: C:\Users\ATG\Desktop\delta-ads\app\[locale]\page.tsx
+// File: D:\مواقع هبوط\delta-ads\app\[locale]\page.tsx
 import * as entry from '../../../../app/[locale]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

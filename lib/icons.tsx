@@ -12,11 +12,12 @@ import {
   ShieldCheck,
   ShoppingCart,
   SmilePlus,
+  TrendingUp,
   type LucideIcon
 } from "lucide-react";
 import type { IconName } from "@/types/content";
 
-export const icons: Record<IconName, LucideIcon> = {
+export const icons: Record<string, LucideIcon> = {
   app: AppWindow,
   calendar: CalendarDays,
   cart: ShoppingCart,
@@ -29,7 +30,8 @@ export const icons: Record<IconName, LucideIcon> = {
   scan: ScanSearch,
   settings: Settings,
   shield: ShieldCheck,
-  smile: SmilePlus
+  smile: SmilePlus,
+  trending: TrendingUp
 };
 
 export const toneClasses = {

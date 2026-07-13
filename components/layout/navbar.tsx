@@ -3,8 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useTheme } from "next-themes";
-import { ArrowUpRight, Menu, Moon, Sun, X } from "lucide-react";
+import { ArrowUpRight, Menu, X } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import { navAnchors } from "@/constants/site";
 import { getOppositeLocale, type Messages } from "@/lib/i18n";
@@ -20,7 +19,6 @@ export function Navbar({ locale, messages }: NavbarProps) {
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
   const pathname = usePathname();
-  const { theme, setTheme } = useTheme();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 12);
@@ -82,14 +80,7 @@ export function Navbar({ locale, messages }: NavbarProps) {
           >
             {messages.nav.language}
           </Link>
-          <button
-            type="button"
-            onClick={() => setTheme(theme === "light" ? "dark" : "light")}
-            className="inline-flex h-10 w-10 items-center justify-center rounded-lg border border-white/12 text-white/78 transition hover:border-blue-300/50 hover:text-white"
-            aria-label="Toggle theme"
-          >
-            {theme === "light" ? <Moon className="h-4 w-4" /> : <Sun className="h-4 w-4" />}
-          </button>
+          {/* تم إزالة زر تغيير المظهر للحفاظ على الهوية الفضائية المظلمة */}
           <Link
             href={`/${locale}/contact`}
             className="inline-flex h-11 items-center gap-2 rounded-lg border border-orange-400/70 px-4 text-sm font-extrabold text-white transition hover:bg-orange-500/12"
